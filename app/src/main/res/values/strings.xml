@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PayMe</string>
+    <string name="amount_title">Receipt Total</string>
+    <string name="amount_msg">Scan total on receipt</string>
+    <string name="raw_title">Raw Title</string>
+    <string name="raw_msg">Raw Message</string>
 </resources>
