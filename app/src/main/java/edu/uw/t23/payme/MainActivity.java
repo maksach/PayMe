@@ -16,7 +16,7 @@ import com.microblink.view.CameraEventsListener;
 
 public class MainActivity extends AppCompatActivity implements CameraEventsListener {
 
-    private int MY_REQUEST_CODE = 911;
+    private int MY_REQUEST_CODE = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
